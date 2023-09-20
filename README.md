@@ -1,2 +1,2 @@
 # Formadores-2023-J3
-Repositório para Grupo de Estudos de Formação de Professores
+Repositório criado para hospedar o projeto desenvolvido na 3º jornada GE Pensamento Computacional EM
