@@ -1,9 +1,16 @@
 body {
     background: #CCCCCC
 }
-
-p {
+#titulo{
     text-align: center;
+    font-size: 30px;
+    color: #FF0000;
+}
+.texto {
+    text-align: center;
+    width: 80%;
+    font-size: 15px;
+    color: #ff8c8c;
 }
 
 q {
