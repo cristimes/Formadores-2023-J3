@@ -9,7 +9,7 @@ body {
     background-color: white;
 }
 #home{
-    align-self: center;
+    box-align: center;
 }
 .texto {
     text-align: center;
