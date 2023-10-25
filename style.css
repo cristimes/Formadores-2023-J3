@@ -1,5 +1,5 @@
 body {
-    background-color: #f997976f;
+    background-color: #ff00008c;
 }
 #titulo{
     align-content: center;
@@ -9,7 +9,7 @@ body {
     background-color: white;
 }
 #home{
-    align-content: center;
+    align-self: center;
 }
 .texto {
     text-align: center;
