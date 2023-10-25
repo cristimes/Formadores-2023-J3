@@ -1,16 +1,20 @@
 body {
-    background: #CCCCCC
+    background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+                linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
+                linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
 }
 #titulo{
     text-align: center;
-    font-size: 30px;
+    font-size: 40px;
     color: #FF0000;
+    background-color: white;
 }
 .texto {
     text-align: center;
     width: 80%;
-    font-size: 15px;
-    color: #ff8c8c;
+    font-size: 25px;
+    color: #000000;
+    background-color: white;
 }
 
 q {
