@@ -1,6 +1,9 @@
 body {
     background-color: #ff00008c;
 }
+#banner{
+    width: 100%;
+}
 #titulo{
     align-content: center;
     text-align: center;
