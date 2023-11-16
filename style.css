@@ -5,7 +5,7 @@ header{
     display: inline-block;
 }
 #banner{
-    height: 30px;
+    width: 60%;
 }
 #titulo{
     align-content: center;
