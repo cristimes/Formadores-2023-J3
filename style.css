@@ -17,6 +17,7 @@ section {
 }
 #sobrenos{
     align-content: center;
+    display: flex;
 }
 strong{
     color: red;
