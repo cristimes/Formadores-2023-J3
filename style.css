@@ -7,13 +7,6 @@ body {
 #banner{
     width: 100%;
 }
-#titulo{
-    align-content: center;
-    text-align: center;
-    font-size: 40px;
-    color: #FF0000;
-    background-color: white;
-}
 section {
     left: 10%;
 }
