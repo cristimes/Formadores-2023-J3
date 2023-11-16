@@ -16,10 +16,8 @@ section {
 }
 #sobrenos{
     margin: 0 auto;
-    width: 50%;
+    width: 80%;
 }
 strong{
-    text-align: center;
     color: red;
-    font-size: 40px;
 }
