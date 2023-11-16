@@ -1,7 +1,7 @@
 body {
     background-color: #ff00008c;
 }
-header{
+.header{
     display: inline-block;
 }
 #banner{
