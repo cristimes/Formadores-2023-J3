@@ -1,23 +1,23 @@
 body {
-    background-color: #ff00008c;
+    background-color: #F6EEE3;
 }
 #banner{
     width: 100%;
+    padding: 0 0;
+    margin: 0 0;
 }
 section {
     left: 10%;
 }
 .texto {
-    text-align: center;
+    text-align: justify;
     width: 80%;
-    font-size: 25px;
-    color: #000000;
-    background-color: white;
+    font-size: 35px;
+    color: #242526;
 }
-
-q {
-    color: #FF0000;
+#sobrenos{
+    align-content: center;
 }
-em{
-    color:blue;
+strong{
+    color: red;
 }
