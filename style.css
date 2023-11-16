@@ -2,10 +2,10 @@ body {
     background-color: #ff00008c;
 }
 .header{
-    display: flex;
+
 }
 #banner{
-    width: 60%;
+    width: 100%;
 }
 #titulo{
     align-content: center;
