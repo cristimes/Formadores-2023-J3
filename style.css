@@ -11,12 +11,13 @@ section {
 }
 .texto {
     text-align: justify;
+    margin: auto 0;
     width: 80%;
     font-size: 35px;
     color: #242526;
 }
 #sobrenos{
-    margin: auto 0;
+    background-color: #F6EEE3;
 }
 strong{
     color: red;
