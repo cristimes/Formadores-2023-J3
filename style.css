@@ -2,7 +2,7 @@ body {
     background-color: #ff00008c;
 }
 .header{
-    display: inline-block;
+    display: flex;
 }
 #banner{
     width: 60%;
