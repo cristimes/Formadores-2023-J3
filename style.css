@@ -2,13 +2,33 @@
     margin: 0;
     padding: 0;
     }
-body {
-    background-image: url(img/paper.png);
-}
 #banner{
     width: 100%;
     padding: 0 0;
     margin: 0 0;
+}
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #da3030;
+  }
+.navitem{
+    float: left;
+  }
+.navitem{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.navitem:hover {
+    background-color: #a51515;
+}
+body {
+    background-image: url(img/paper.png);
 }
 #index {
     margin: 20px 10%;
