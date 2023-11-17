@@ -17,13 +17,13 @@ header{
     padding: 0;
     overflow: hidden;
     background-color: #da3030;
-    text-decoration: none;
-    color: white;
   }
 .navitem{
     float: left;
   }
 .navitem{
+    text-decoration: none;
+    color: rgb(78, 78, 78);
     display: block;
     text-align: center;
     padding: 14px 16px;
