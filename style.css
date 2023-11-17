@@ -51,28 +51,27 @@ body {
     margin: 20px 10%;
     width: 80%;
 }
+#sobrerpg{
+    display: flex;
+}
+#sobre{
+    margin: auto 10px auto 10px;
+    width: 30%;
+    height: fit-content;
+}
 .texto {
     text-align: justify;
     font-size: 25px;
     color: #242526;
     margin: auto 20px auto 20px;
 }
+footer{
+    padding: 20px 20px;
+    background-color: beige;
+}
 #aviso{
     color: red;
     font-weight:bold;
     text-align: center;
     font-size: 40px;
-}
-#sobrerpg{
-    display: flex;
-}
-#sobre{
-    margin: 10px 10px;
-    width: 30%;
-    height: fit-content;
-    vertical-align: middle;
-}
-footer{
-    padding: 20px 20px;
-    background-color: beige;
 }
