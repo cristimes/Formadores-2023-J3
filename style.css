@@ -33,7 +33,7 @@ header{
   }
 .navtexto{
     font-size: 20px;
-    color: rgb(66, 66, 66);
+    color: #1d1717;
     text-decoration: none;
 }
 .navitem:hover {
@@ -44,13 +44,13 @@ header{
   }
 .navsobre{
     text-decoration: none;
-    color: rgb(78, 78, 78);
+    color: 1d1717;
     display: block;
     text-align: center;
     padding: 14px 16px;
 }
 .navsobre:hover {
-    background-color: #a51515;
+    background-color: #de0a26;
 }
 body {
     background-image: url(img/paper.png);
