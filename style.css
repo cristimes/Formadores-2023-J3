@@ -22,11 +22,13 @@ header{
     float: left;
   }
 .navitem{
-    text-decoration: none;
-    color: rgb(78, 78, 78);
     display: block;
     text-align: center;
     padding: 14px 16px;
+}
+.navtexto{
+    color: rgb(78, 78, 78);
+    text-decoration: none;
 }
 .navitem:hover {
     background-color: #a51515;
