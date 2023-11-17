@@ -13,16 +13,16 @@
     padding: 0;
     overflow: hidden;
     background-color: #da3030;
+    text-decoration: none;
+    color: white;
   }
 .navitem{
     float: left;
   }
 .navitem{
     display: block;
-    color: white;
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none;
 }
 .navitem:hover {
     background-color: #a51515;
