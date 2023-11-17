@@ -26,19 +26,11 @@ body {
     text-align: center;
     font-size: 40px;
 }
-#sobrerpg1{
+#sobrerpg{
     display: flex;
 }
-#sobre1{
+#sobre{
     margin: 10px 10px;
-    width: 30%;
-    height: auto;
-}
-#sobrerpg2{
-    display: flex;
-}
-#sobre2{
-    margin: 10px 10px;
-    width: 30%;
+    max-width: 30%;
     height: auto;
 }
