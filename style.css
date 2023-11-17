@@ -27,7 +27,7 @@ header{
     padding: 14px 16px;
 }
 .navtexto{
-    color: rgb(78, 78, 78);
+    color: rgb(66, 66, 66);
     text-decoration: none;
 }
 .navitem:hover {
@@ -47,7 +47,9 @@ header{
     background-color: #a51515;
 }
 .active {
-    background-color: #e00000;
+    background-color: #d1d1d1;
+    color: rgb(66, 66, 66);
+    text-decoration: none;
   }
 body {
     background-image: url(img/paper.png);
