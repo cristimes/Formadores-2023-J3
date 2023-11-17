@@ -34,5 +34,6 @@ body {
     height: fit-content;
 }
 footer{
+    padding: 5% 5%;
     background-color: beige;
 }
