@@ -12,6 +12,8 @@ body {
 }
 #index {
     left: 10%;
+    margin: 0 auto;
+    width: 80%;
 }
 .texto {
     text-align: justify;
@@ -25,18 +27,16 @@ body {
     font-size: 40px;
 }
 #sobrerp1{
-    margin: 0 auto;
-    width: 80%;
+    display: flex;
 }
 #sobre1{
-    margin: 0 auto;
-    width: 80%;
+    margin: 5px auto;
+    width: 30%;
 }
 #sobrerpg2{
-    margin: 0 auto;
-    width: 80%;
+    display: flex;
 }
 #sobre2{
-    margin: 0 auto;
-    width: 80%;
+    margin: 5px auto;
+    width: 30%;
 }
