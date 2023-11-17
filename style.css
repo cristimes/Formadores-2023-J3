@@ -30,13 +30,15 @@ body {
     display: flex;
 }
 #sobre1{
-    margin: 5px auto;
+    margin: 10px 10px;
     width: 30%;
+    height: auto;
 }
 #sobrerpg2{
     display: flex;
 }
 #sobre2{
-    margin: 5px auto;
+    margin: 10px 10px;
     width: 30%;
+    height: auto;
 }
