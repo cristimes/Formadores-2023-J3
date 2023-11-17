@@ -16,7 +16,7 @@ header{
     margin: 0 0;
     padding: 0 0;
     overflow: hidden;
-    background-color: #c54747;
+    background-color: #f94449;
   }
 .navitem{
     float: left;
@@ -29,7 +29,7 @@ header{
     display: block;
     text-align: center;
     padding: 14px 16px;
-    background-color: #d1d1d1;
+    background-color: #ff0000;
   }
 .navtexto{
     font-size: 20px;
@@ -37,7 +37,7 @@ header{
     text-decoration: none;
 }
 .navitem:hover {
-    background-color: #a51515;
+    background-color: #de0a26;
 }
 .navsobre{
     float: right;
