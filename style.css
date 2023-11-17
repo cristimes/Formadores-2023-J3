@@ -10,7 +10,7 @@ body {
     padding: 0 0;
     margin: 0 0;
 }
-section {
+#index {
     left: 10%;
 }
 .texto {
@@ -24,7 +24,19 @@ section {
     text-align: center;
     font-size: 40px;
 }
-#sobrenos{
+#sobrerp1{
+    margin: 0 auto;
+    width: 80%;
+}
+#sobre1{
+    margin: 0 auto;
+    width: 80%;
+}
+#sobrerpg2{
+    margin: 0 auto;
+    width: 80%;
+}
+#sobre2{
     margin: 0 auto;
     width: 80%;
 }
