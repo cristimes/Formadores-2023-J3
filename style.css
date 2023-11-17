@@ -12,7 +12,7 @@ body {
 }
 #index {
     left: 10%;
-    margin: 0 auto;
+    margin: 0 10px;
     width: 80%;
 }
 .texto {
