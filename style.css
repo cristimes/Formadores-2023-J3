@@ -16,17 +16,23 @@ header{
     margin: 0 0;
     padding: 0 0;
     overflow: hidden;
-    background-color: #da3030;
+    background-color: #c54747;
   }
 .navitem{
     float: left;
-  }
-.navitem{
     display: block;
     text-align: center;
     padding: 14px 16px;
 }
+.navactive {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    background-color: #d1d1d1;
+  }
 .navtexto{
+    font-size: 20px;
     color: rgb(66, 66, 66);
     text-decoration: none;
 }
@@ -46,11 +52,6 @@ header{
 .navsobre:hover {
     background-color: #a51515;
 }
-.active {
-    background-color: #d1d1d1;
-    color: rgb(66, 66, 66);
-    text-decoration: none;
-  }
 body {
     background-image: url(img/paper.png);
     margin: 0 0;
