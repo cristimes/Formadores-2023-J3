@@ -47,6 +47,11 @@
 body {
     background-image: url(img/paper.png);
 }
+#tituloindex{
+    text-align: justify;
+    font-size: 30px;
+    color: #242526;
+}
 #index {
     margin: 20px 10%;
     width: 80%;
@@ -61,7 +66,7 @@ body {
 }
 .texto {
     text-align: justify;
-    font-size: 25px;
+    font-size: 22px;
     color: #242526;
     margin: auto 20px auto 20px;
 }
