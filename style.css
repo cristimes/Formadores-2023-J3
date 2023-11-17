@@ -11,8 +11,7 @@ body {
     margin: 0 0;
 }
 #index {
-    left: 10%;
-    margin: 0 10px;
+    margin: 10% 10px;
     width: 80%;
 }
 .texto {
@@ -31,6 +30,6 @@ body {
 }
 #sobre{
     margin: 10px 10px;
-    max-width: 30%;
-    height: auto;
+    width: 30%;
+    height: fit-content;
 }
