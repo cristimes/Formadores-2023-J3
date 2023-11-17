@@ -31,6 +31,19 @@ header{
 .navitem:hover {
     background-color: #a51515;
 }
+.navsobre{
+    float: right;
+  }
+.navsobre{
+    text-decoration: none;
+    color: rgb(78, 78, 78);
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+}
+.navsobre:hover {
+    background-color: #a51515;
+}
 body {
     background-image: url(img/paper.png);
     margin: 0;
