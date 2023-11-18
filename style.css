@@ -84,3 +84,9 @@ footer{
     vertical-align: middle;
     margin: auto;
 }
+#titulosistema{
+    text-align: justify;
+    font-size: 25px;
+    color: #242526;
+    margin: 20px 12% 5px;
+}
