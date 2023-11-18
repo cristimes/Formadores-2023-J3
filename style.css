@@ -75,8 +75,10 @@ footer{
     display: flex;
     padding: 20px 20px;
     background-color: #ffffff;
+    margin: auto auto auto auto;
 }
 #imgrdp{
     width: 15%;
     height: fit-content;
+
 }
