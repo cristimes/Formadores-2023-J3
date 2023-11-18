@@ -81,4 +81,6 @@ footer{
 #imgrdp{
     width: 20%;
     height: fit-content;
+    vertical-align: middle;
+    margin: auto;
 }
