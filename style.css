@@ -85,6 +85,12 @@ footer{
     vertical-align: middle;
     margin: auto;
 }
+.txtrdp {
+    text-align: justify;
+    font-size: 16px;
+    color: #242526;
+    margin: auto;
+}
 #titulosistema{
     text-align: justify;
     font-size: 25px;
