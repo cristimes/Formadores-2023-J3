@@ -71,7 +71,7 @@ body {
     color: #242526;
     margin: auto 20px auto 20px;
 }
-footer{
+#rodape{
     display: flex;
     padding: 20px 20px;
     background-color: #ffffff;
