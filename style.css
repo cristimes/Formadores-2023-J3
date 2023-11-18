@@ -14,7 +14,7 @@
     float: left;
     display: block;
     text-align: center;
-    padding: 0px 16px;
+    padding: 14px 16px;
 }
 .navactive {
     float: left;
@@ -23,7 +23,7 @@
     padding: 14px 16px;
     background-color: #ff0000;
   }
-.navtexto{
+.navtxt{
     font-size: 20px;
     color: #1d1717;
     text-decoration: none;
@@ -57,27 +57,26 @@ body {
     margin: 20px 10%;
     width: 80%;
 }
-#sobrerpg{
+#indexdiv{
     display: flex;
 }
-#sobre{
+#indeximg{
     margin: auto 10px auto 10px;
     width: 30%;
     height: fit-content;
 }
-.texto {
+.indextxt {
     text-align: justify;
     font-size: 22px;
     color: #242526;
     margin: auto 20px auto 20px;
 }
 footer{
+    display: flex;
     padding: 20px 20px;
-    background-color: beige;
+    background-color: #ffffff;
 }
-#aviso{
-    color: red;
-    font-weight:bold;
-    text-align: center;
-    font-size: 40px;
+#imgrdp{
+    width: 40px;
+    height: fit-content;
 }
