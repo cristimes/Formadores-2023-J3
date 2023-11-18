@@ -72,17 +72,14 @@ body {
     margin: auto 20px auto 20px;
 }
 footer{
-    padding: 20px 20px;
+    padding: 10px auto;
     background-color: #ffffff;
     margin: 0 auto;
     vertical-align: middle;
 }
 #rodape{
     display: flex;
-    padding: 20px 20px;
-    background-color: #ffffff;
-    margin: auto;
-    vertical-align: middle;
+    margin: 0 auto;
 }
 #imgrdp{
     width: 20%;
