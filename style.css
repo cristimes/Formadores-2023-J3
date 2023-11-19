@@ -92,9 +92,9 @@ footer{
     margin: auto;
 }
 #rdplink{
+    width: 5%;
     height: fit-content;
     vertical-align: middle;
-    width: 5%;
     margin: auto auto 10px 10px;
 }
 #titulosistema{
