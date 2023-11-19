@@ -74,6 +74,7 @@ body {
 footer{
     background-color: #ffffff;
     padding: 5% auto 5% auto;
+    margin: 5% auto 5% auto;
     vertical-align: middle;
 }
 #rodape{
@@ -90,13 +91,11 @@ footer{
     font-size: 16px;
     color: #242526;
     margin-right: 1px;
-    padding: auto;
     vertical-align: middle;
 }
 #rdplink{
     vertical-align: middle;
     margin-left: 1px;
-    padding: auto;
 }
 #titulosistema{
     text-align: justify;
