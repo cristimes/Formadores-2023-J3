@@ -85,8 +85,8 @@ footer{
     height: 50px;
     width: fit-content;
     vertical-align: middle;
-    margin-top: 15px;
     margin: auto;
+    margin-top: 15px;
 }
 .txtrdp {
     text-align: justify;
