@@ -79,7 +79,7 @@ footer{
 }
 #rodape{
     display: flex;
-    margin: 20px auto 20px auto;
+    padding: 20px auto 20px auto;
 }
 #imgrdp{
     height: 50px;
