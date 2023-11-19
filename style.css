@@ -90,6 +90,7 @@ footer{
     font-size: 16px;
     color: #242526;
     margin: auto;
+    vertical-align: middle;
 }
 #rdplink{
     width: 5%;
