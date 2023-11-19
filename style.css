@@ -105,3 +105,8 @@ footer{
     color: #242526;
     margin: 20px 12% 5px;
 }
+#dadoimg{
+    margin: auto 10px auto 10px;
+    width: 30%;
+    height: fit-content;
+}
