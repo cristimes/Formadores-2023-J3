@@ -89,7 +89,8 @@ footer{
     text-align: justify;
     font-size: 16px;
     color: #242526;
-    margin-bottom: 15px;
+    margin: auto 3 px 15px auto;
+    vertical-align: middle;
 }
 #rdplink{
     vertical-align: middle;
