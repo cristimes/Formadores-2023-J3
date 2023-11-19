@@ -73,12 +73,13 @@ body {
 }
 footer{
     background-color: #ffffff;
-    padding: 0 auto 0 auto;
-    margin: 50% auto 50% auto;
+    padding: auto;
+    margin: auto;
     vertical-align: middle;
 }
 #rodape{
     display: flex;
+    margin: 20px auto 20px auto;
 }
 #imgrdp{
     height: 50px;
