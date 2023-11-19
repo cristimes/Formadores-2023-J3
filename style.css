@@ -73,11 +73,12 @@ body {
 }
 footer{
     background-color: #ffffff;
-    padding: 5% auto;
+    padding: 5% auto 5% auto;
     vertical-align: middle;
 }
 #rodape{
     display: flex;
+    padding: 5% auto 5% auto;
 }
 #imgrdp{
     width: 20%;
@@ -89,12 +90,12 @@ footer{
     text-align: justify;
     font-size: 16px;
     color: #242526;
-    margin: auto 3px 15px auto;
+    margin: auto;
     vertical-align: middle;
 }
 #rdplink{
     vertical-align: middle;
-    margin: auto auto 10px 3px;
+    margin: auto;
 }
 #titulosistema{
     text-align: justify;
