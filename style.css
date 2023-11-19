@@ -92,12 +92,12 @@ footer{
     text-align: justify;
     font-size: 16px;
     color: #242526;
-    margin: 5px 1px 10px auto;
+    margin: 10px 1px 10px auto;
     vertical-align: middle;
 }
 #rdplink{
     vertical-align: middle;
-    margin: 0 auto 3px 1px;
+    margin: 3px auto 3px 1px;
 }
 #titulosistema{
     text-align: justify;
