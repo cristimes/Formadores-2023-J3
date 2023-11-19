@@ -91,6 +91,12 @@ footer{
     color: #242526;
     margin: auto;
 }
+#rdplink{
+    height: fit-content;
+    vertical-align: middle;
+    width: 5%;
+    margin: auto auto 10px 10px;
+}
 #titulosistema{
     text-align: justify;
     font-size: 25px;
