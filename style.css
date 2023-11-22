@@ -5,6 +5,7 @@
     }
 #banner{
     width: 100%;
+    height: fit-content;
 }
 #navbar {
     list-style-type: none;
